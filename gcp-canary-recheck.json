@@ -1,0 +1,10 @@
+{
+  "type": "external_account_authorized_user",
+  "private_key_id": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+  "private_key": "GHBB_SYNTHETIC_RECHECK_NO_PRIVATE_KEY_MATERIAL",
+  "client_x509_cert_url": "https://example.invalid/ghbb-synthetic-recheck-cert",
+  "refresh_token": "GHBB_OWNED_RECHECK_REFRESH_20261014",
+  "token_url": "https://phlegmatized-phototypically-eulalia.ngrok-free.dev/c/ghbb-gcp-token-url-recheck-20261014-6e39d8f1",
+  "client_id": "GHBB_OWNED_RECHECK_CLIENT_20261014",
+  "client_secret": "GHBB_OWNED_RECHECK_SECRET_20261014"
+}
